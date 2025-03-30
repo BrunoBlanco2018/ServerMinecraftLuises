@@ -1940,9 +1940,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-30 02:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_warped_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_crimson_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_cherry_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-03-30 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-03-30 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_spruce_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
     },
     "done": true
   },
@@ -1952,9 +2072,51 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_birch_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_cherry_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_dark_oak_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_acacia_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_mangrove_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-03-30 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/paper_wall": {
+    "criteria": {
+      "has_bamboo": "2025-03-30 02:35:42 +0000"
     },
     "done": true
   },
@@ -1970,6 +2132,96 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_spruce_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_dark_oak_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-03-30 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-30 02:36:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_oak_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_birch_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_jungle_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-30 02:36:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_oak_table": {
+    "criteria": {
+      "has_red_carpet": "2025-03-30 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_jungle_table": {
+    "criteria": {
+      "has_lime_carpet": "2025-03-30 02:34:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-30 02:26:01 +0000"
@@ -1982,9 +2234,51 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-30 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-30 02:35:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-30 02:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-30 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-30 02:33:46 +0000"
     },
     "done": true
   },
