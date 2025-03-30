@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_porkchop": "2025-03-30 01:51:25 +0000"
@@ -86,6 +92,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-03-30 01:47:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
     },
     "done": true
   },
@@ -107,9 +119,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/lime_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-03-30 01:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
     },
     "done": true
   },
@@ -167,6 +191,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-30 01:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-30 01:52:18 +0000"
@@ -176,6 +212,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-30 01:50:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/green_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
     },
     "done": true
   },
@@ -209,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
@@ -218,6 +266,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
     },
     "done": true
   },
@@ -233,9 +287,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
     },
     "done": true
   },
@@ -260,6 +326,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_mangrove_chair": {
     "criteria": {
       "has_white_wool": "2025-03-30 01:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
     },
     "done": true
   },
@@ -335,6 +407,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/brown_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
@@ -365,9 +443,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-03-30 01:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-03-30 01:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
     },
     "done": true
   },
@@ -392,6 +482,12 @@
   "create:recipes/building_blocks/acacia_window": {
     "criteria": {
       "has_ingredient": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/magenta_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
     },
     "done": true
   },
@@ -455,6 +551,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
@@ -497,9 +599,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-03-30 02:01:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/light_gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
     },
     "done": true
   },
@@ -581,6 +695,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/black_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-03-30 01:47:56 +0000"
@@ -602,6 +722,12 @@
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-03-30 01:55:10 +0000"
     },
     "done": true
   },
@@ -644,6 +770,12 @@
   "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
     },
     "done": true
   },
@@ -719,6 +851,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/purple_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-03-30 01:52:18 +0000"
@@ -779,6 +929,18 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/yellow_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-03-30 01:52:53 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-03-30 01:50:53 +0000"
@@ -806,6 +968,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-03-30 01:59:37 +0000"
     },
     "done": true
   },
@@ -959,9 +1127,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/light_blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-03-30 01:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-30 01:53:53 +0000"
     },
     "done": true
   },
@@ -983,19 +1163,42 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-03-30 01:50:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-03-30 01:57:34 +0000",
+      "floodplain": "2025-03-30 02:00:39 +0000",
       "jacaranda_glade": "2025-03-30 01:50:36 +0000",
+      "orchard": "2025-03-30 01:55:36 +0000",
+      "volcanic_plains": "2025-03-30 02:01:25 +0000",
       "lavender_field": "2025-03-30 01:50:20 +0000",
-      "prairie": "2025-03-30 01:49:32 +0000"
+      "prairie": "2025-03-30 01:49:32 +0000",
+      "rainforest": "2025-03-30 01:58:39 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
@@ -1081,6 +1284,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/red_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
@@ -1090,6 +1305,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-03-30 01:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-30 01:54:24 +0000"
     },
     "done": true
   },
@@ -1117,9 +1338,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-03-30 02:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-30 01:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-30 01:56:25 +0000"
     },
     "done": true
   },
@@ -1132,6 +1383,18 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-30 01:52:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
     },
     "done": true
   },
@@ -1183,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-03-30 01:52:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-03-30 01:48:03 +0000"
@@ -1192,6 +1461,24 @@
   "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/pink_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2025-03-30 01:52:53 +0000"
     },
     "done": true
   },
@@ -1291,6 +1578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-30 01:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-03-30 01:50:40 +0000"
@@ -1327,6 +1620,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-30 01:52:44 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-03-30 01:50:53 +0000"
@@ -1360,6 +1659,12 @@
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2025-03-30 01:48:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/orange_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
     },
     "done": true
   },
@@ -1441,6 +1746,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-03-30 01:55:10 +0000"
+    },
+    "done": true
+  },
   "furnish:recipes/furniture_workbench": {
     "criteria": {
       "has_logs": "2025-03-30 01:47:56 +0000"
@@ -1449,6 +1760,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2025-03-30 01:59:43 +0000",
       "minecraft:river": "2025-03-30 01:50:16 +0000",
       "minecraft:windswept_savanna": "2025-03-30 01:47:49 +0000"
     },
@@ -1460,9 +1772,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/cyan_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-03-30 01:58:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-03-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-30 01:59:37 +0000"
     },
     "done": true
   },
@@ -1477,6 +1801,13 @@
       "has_stick": "2025-03-30 01:48:03 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-03-30 01:54:24 +0000",
+      "cooked_mutton": "2025-03-30 02:02:24 +0000"
+    },
+    "done": false
   },
   "valhelsia_structures:recipes/building_blocks/acacia_post": {
     "criteria": {
@@ -1505,6 +1836,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-03-30 01:47:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-03-30 01:56:39 +0000"
     },
     "done": true
   },
