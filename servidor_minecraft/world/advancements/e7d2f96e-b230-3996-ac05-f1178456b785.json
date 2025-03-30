@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-30 02:12:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-30 01:48:03 +0000"
@@ -29,6 +35,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-30 02:12:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-03-30 01:48:03 +0000"
@@ -44,6 +56,12 @@
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-03-30 01:50:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-30 02:12:21 +0000"
     },
     "done": true
   },
@@ -344,6 +362,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-03-30 01:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-30 02:05:29 +0000"
     },
     "done": true
   },
@@ -893,6 +917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-30 02:05:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-03-30 01:48:03 +0000"
@@ -1073,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-30 02:12:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-03-30 01:48:01 +0000"
@@ -1094,6 +1130,12 @@
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-03-30 01:50:40 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-30 02:12:17 +0000"
     },
     "done": true
   },
@@ -1163,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-30 02:12:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/blue_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_item": "2025-03-30 01:58:59 +0000"
@@ -1187,6 +1235,7 @@
       "floodplain": "2025-03-30 02:00:39 +0000",
       "jacaranda_glade": "2025-03-30 01:50:36 +0000",
       "orchard": "2025-03-30 01:55:36 +0000",
+      "rocky_rainforest": "2025-03-30 02:02:47 +0000",
       "volcanic_plains": "2025-03-30 02:01:25 +0000",
       "lavender_field": "2025-03-30 01:50:20 +0000",
       "prairie": "2025-03-30 01:49:32 +0000",
@@ -1305,6 +1354,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-03-30 01:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-30 02:12:21 +0000"
     },
     "done": true
   },
@@ -1455,6 +1510,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-03-30 01:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-30 02:05:29 +0000"
     },
     "done": true
   },
@@ -1762,7 +1823,8 @@
     "criteria": {
       "minecraft:lukewarm_ocean": "2025-03-30 01:59:43 +0000",
       "minecraft:river": "2025-03-30 01:50:16 +0000",
-      "minecraft:windswept_savanna": "2025-03-30 01:47:49 +0000"
+      "minecraft:windswept_savanna": "2025-03-30 01:47:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-30 02:04:59 +0000"
     },
     "done": false
   },
@@ -1796,9 +1858,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-03-30 02:12:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-03-30 01:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-30 02:12:21 +0000"
     },
     "done": true
   },
