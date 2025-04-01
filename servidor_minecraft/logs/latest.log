@@ -420,3 +420,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Apr2025 17:29:47.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [The Parrots and the Bats]
 [01Apr2025 17:30:51.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Take Aim]
 [01Apr2025 17:32:27.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxyfolli> w
+[01Apr2025 17:42:41.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [New Age Librarian]
+[01Apr2025 17:42:42.615] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f82cdf5[id=<null>,name=bb18_,properties={},legacy=false] (/127.63.123.64:53623) lost connection: Disconnected
+[01Apr2025 17:43:50.158] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f290ba6[id=<null>,name=bb18_,properties={},legacy=false] (/127.63.123.64:40039) lost connection: Disconnected
+[01Apr2025 17:43:54.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bb18_[/127.63.123.64:52989] logged in with entity id 27496 at (142.54616976723563, 76.0, -65.31440402263802)
+[01Apr2025 17:43:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ joined the game
+[01Apr2025 17:43:55.014] [Server thread/INFO] [Jade/]: Syncing config to bb18_ (e7d2f96e-b230-3996-ac05-f1178456b785)
+[01Apr2025 17:47:55.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=750, y=65, z=-23} BlockPos{x=749, y=64, z=-22}
+[01Apr2025 17:47:55.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=750, y=65, z=-23} BlockPos{x=749, y=64, z=-22}
+[01Apr2025 17:47:56.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=754, y=65, z=-22} BlockPos{x=754, y=62, z=-24}
+[01Apr2025 17:49:56.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Amateur Archaeologist]
+[01Apr2025 17:50:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Isn't It Iron Pick]
+[01Apr2025 17:51:29.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Suit Up]
+[01Apr2025 17:54:42.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:41439] logged in with entity id 31509 at (1016.9367391340116, 74.0, 215.15543724510366)
+[01Apr2025 17:54:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
+[01Apr2025 17:54:42.395] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
