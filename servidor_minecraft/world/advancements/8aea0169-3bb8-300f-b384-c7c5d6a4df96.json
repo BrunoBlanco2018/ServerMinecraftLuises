@@ -3999,6 +3999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-01 13:30:23 +0000"
@@ -4179,6 +4185,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-01 13:30:23 +0000"
@@ -4227,6 +4239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-01 13:47:51 +0000"
@@ -4248,6 +4266,12 @@
   "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-01 13:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
     },
     "done": true
   },
@@ -4308,6 +4332,12 @@
   "valhelsia_furniture:recipes/decorations/green_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-01 13:30:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
     },
     "done": true
   },
@@ -4395,6 +4425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-01 13:29:54 +0000"
@@ -4437,6 +4473,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-01 13:29:54 +0000"
@@ -4464,6 +4512,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-01 13:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-01 13:55:46 +0000"
     },
     "done": true
   },
@@ -4551,6 +4605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-01 13:30:23 +0000"
@@ -4635,6 +4695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/acacia_desk_drawer": {
     "criteria": {
       "has_acacia_planks": "2025-04-01 13:30:23 +0000"
@@ -4683,6 +4749,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-01 13:52:19 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-04-01 13:17:53 +0000"
@@ -4710,6 +4782,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-04-01 13:16:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-01 13:55:46 +0000"
     },
     "done": true
   },
