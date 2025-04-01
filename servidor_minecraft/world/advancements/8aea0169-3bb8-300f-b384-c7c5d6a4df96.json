@@ -5971,6 +5971,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid_smithing": {
+    "criteria": {
+      "has_squid": "2025-04-01 18:06:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-01 17:41:35 +0000"

@@ -435,3 +435,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Apr2025 17:54:42.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:41439] logged in with entity id 31509 at (1016.9367391340116, 74.0, 215.15543724510366)
 [01Apr2025 17:54:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
 [01Apr2025 17:54:42.395] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[01Apr2025 18:08:47.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Creative Mode]
+[01Apr2025 18:09:00.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
+[01Apr2025 18:09:19.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
+[01Apr2025 18:09:19.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
+[01Apr2025 18:09:19.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Kicked nicasexy_22: Por admin abuse]
+[01Apr2025 18:09:19.209] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
