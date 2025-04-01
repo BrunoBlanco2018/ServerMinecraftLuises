@@ -6314,3 +6314,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Apr2025 16:21:41.104] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$b4ae44e6d11944bb986278de5b477a6b (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
 [01Apr2025 16:24:41.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Apr2025 16:24:41.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 16:29:41.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 16:29:41.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 16:34:41.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 16:34:41.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
