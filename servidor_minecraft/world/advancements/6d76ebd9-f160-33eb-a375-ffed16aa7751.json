@@ -3258,24 +3258,6 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
-    "criteria": {
-      "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-04-01 18:07:44 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
-    "criteria": {
-      "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-01 18:01:56 +0000"
@@ -3288,21 +3270,51 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-04-01 18:01:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-04-01 18:01:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-04-01 18:01:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-04-01 18:01:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-04-01 18:01:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
     "criteria": {
       "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
     "criteria": {
-      "has_any_ingredient": "2025-04-01 18:07:39 +0000"
+      "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
+  "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
     "criteria": {
-      "has_needed_dye": "2025-04-01 18:07:44 +0000"
+      "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
     },
     "done": true
   },
@@ -3330,12 +3342,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-04-01 18:07:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
@@ -3351,12 +3357,6 @@
   "valhelsia_furniture:recipes/decorations/light_gray_crimson_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-04-01 18:07:39 +0000"
     },
     "done": true
   },
@@ -3390,27 +3390,9 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/black_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_color": "2025-04-01 18:07:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2025-04-01 18:07:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-04-01 18:01:56 +0000"
     },
     "done": true
   },
@@ -3426,21 +3408,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/hay": {
-    "criteria": {
-      "has_wheat": "2025-04-01 18:01:56 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-04-01 18:01:56 +0000"
     },
     "done": true
   },
@@ -3474,21 +3444,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/squid_smithing": {
-    "criteria": {
-      "has_squid": "2025-04-01 18:09:10 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-04-01 18:01:56 +0000"
     },
     "done": true
   },
@@ -3522,21 +3480,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/squid": {
-    "criteria": {
-      "has_ink_sac": "2025-04-01 18:07:39 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-04-01 18:07:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_black_dye": "2025-04-01 18:07:44 +0000"
     },
     "done": true
   },
@@ -3552,15 +3498,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-01 18:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-01 18:07:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-04-01 18:07:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-04-01 18:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-01 18:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-01 18:07:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/black_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-04-01 18:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-04-01 18:07:44 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/daub": {
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "supplementaries:straw": "2025-04-01 18:01:56 +0000"
+      "has_black_dye": "2025-04-01 18:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-04-01 18:07:44 +0000"
     },
     "done": true
   },
@@ -3579,6 +3573,36 @@
   "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "forge:dyes/black": "2025-04-01 18:07:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid_smithing": {
+    "criteria": {
+      "has_squid": "2025-04-01 18:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-01 18:14:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-01 18:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-01 18:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-01 18:14:48 +0000"
     },
     "done": true
   },

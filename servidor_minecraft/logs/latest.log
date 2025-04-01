@@ -441,3 +441,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Apr2025 18:09:19.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
 [01Apr2025 18:09:19.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Kicked nicasexy_22: Por admin abuse]
 [01Apr2025 18:09:19.209] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Apr2025 18:09:44.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:48611] logged in with entity id 38861 at (1019.9726904245998, 70.0, 211.45693871486924)
+[01Apr2025 18:09:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
+[01Apr2025 18:09:44.510] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[01Apr2025 18:10:51.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Played sound minecraft:entity.creeper.primed to bb18_]
+[01Apr2025 18:10:56.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Played sound minecraft:entity.creeper.primed to Foxyfolli]
+[01Apr2025 18:11:04.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Played sound minecraft:entity.creeper.primed to Foxyfolli]
+[01Apr2025 18:11:41.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Played sound minecraft:entity.creeper.primed to nicasexy_22]
+[01Apr2025 18:12:06.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Showing new title for 3 players]
+[01Apr2025 18:13:47.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Ol' Betsy]
+[01Apr2025 18:13:47.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Take Aim]
+[01Apr2025 18:15:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Crops of the Wild]
+[01Apr2025 18:15:42.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Crops of the Wild]
+[01Apr2025 18:15:59.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Crops of the Wild]
+[01Apr2025 18:17:45.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Kicked Foxyfolli: El admin es superior]
+[01Apr2025 18:17:45.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: El admin es superior
+[01Apr2025 18:17:45.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
+[01Apr2025 18:17:54.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:49585] logged in with entity id 40666 at (1031.9905018052139, 64.0, 187.68533237352364)
+[01Apr2025 18:17:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[01Apr2025 18:17:54.791] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
