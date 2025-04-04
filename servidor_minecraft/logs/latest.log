@@ -437,3 +437,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Apr2025 14:55:58.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ joined the game
 [04Apr2025 14:55:58.413] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
 [04Apr2025 14:55:58.414] [Server thread/INFO] [Jade/]: Syncing config to bb18_ (e7d2f96e-b230-3996-ac05-f1178456b785)
+[04Apr2025 15:06:05.543] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/4952, l='ServerLevel[world]', x=2115.50, y=54.00, z=478.50]
+[04Apr2025 15:11:13.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
+[04Apr2025 15:11:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
