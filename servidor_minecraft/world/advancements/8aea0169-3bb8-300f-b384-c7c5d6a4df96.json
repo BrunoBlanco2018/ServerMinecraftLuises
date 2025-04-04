@@ -1719,7 +1719,8 @@
       "minecraft:creeper": "2025-04-01 19:49:13 +0000",
       "minecraft:silverfish": "2025-04-04 16:32:48 +0000",
       "minecraft:zombie": "2025-03-30 02:10:57 +0000",
-      "minecraft:drowned": "2025-04-01 18:23:43 +0000"
+      "minecraft:drowned": "2025-04-01 18:23:43 +0000",
+      "minecraft:zombie_villager": "2025-04-04 17:48:17 +0000"
     },
     "done": false
   },
@@ -7336,6 +7337,24 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-04 17:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-04-04 17:49:04 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
+    "criteria": {
+      "inscription_table": "2025-04-04 17:50:57 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-04-04 17:52:46 +0000"
     },
     "done": true
   },
