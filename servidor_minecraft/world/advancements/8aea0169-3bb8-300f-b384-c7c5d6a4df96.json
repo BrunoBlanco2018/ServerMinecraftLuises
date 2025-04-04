@@ -6419,21 +6419,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "supplementaries:recipes/pancake_fd": {
     "criteria": {
-      "has_bone_meal": "2025-04-01 20:29:58 +0000"
+      "has_sugar": "2025-04-01 20:29:05 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "supplementaries:recipes/sugar_cube": {
     "criteria": {
-      "glow_berries": "2025-04-01 20:30:21 +0000"
+      "has_sugar": "2025-04-01 20:29:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-04-01 20:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-01 20:29:58 +0000"
     },
     "done": true
   },
@@ -6461,17 +6467,11 @@
     },
     "done": true
   },
-  "supplementaries:recipes/pancake_fd": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_sugar": "2025-04-01 20:29:05 +0000"
+      "glow_berries": "2025-04-01 20:30:21 +0000"
     },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2025-04-01 20:29:05 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }

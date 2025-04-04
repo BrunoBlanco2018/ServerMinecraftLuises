@@ -477,3 +477,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Apr2025 16:15:03.627] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
 [04Apr2025 16:15:03.628] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
 [04Apr2025 16:15:03.628] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[04Apr2025 16:16:46.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Hello ?]
+[04Apr2025 16:16:48.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Sharp axe !]
+[04Apr2025 16:19:56.048] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/36223, l='ServerLevel[world]', x=2602.50, y=12.00, z=75.50]
+[04Apr2025 16:22:57.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Once Upon a Cave]
+[04Apr2025 16:23:41.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Alex's Caves]

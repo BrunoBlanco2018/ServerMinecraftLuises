@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-04-01 18:21:32 +0000",
+      "minecraft:beach": "2025-04-04 16:12:39 +0000",
       "minecraft:stony_peaks": "2025-04-01 18:46:46 +0000",
       "minecraft:sparse_jungle": "2025-04-01 18:37:25 +0000",
       "minecraft:lukewarm_ocean": "2025-03-30 18:18:27 +0000",
@@ -45,6 +46,7 @@
       "minecraft:ocean": "2025-03-30 18:18:04 +0000",
       "minecraft:jungle": "2025-04-01 18:37:51 +0000",
       "minecraft:windswept_savanna": "2025-03-30 18:03:51 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-04 16:13:02 +0000",
       "minecraft:savanna": "2025-04-01 18:21:37 +0000",
       "minecraft:plains": "2025-03-30 18:05:38 +0000"
     },
@@ -818,6 +820,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-01 14:34:12 +0000",
+      "minecraft:skeleton": "2025-04-04 16:16:14 +0000",
       "minecraft:spider": "2025-03-30 18:08:58 +0000",
       "minecraft:zombie": "2025-04-01 18:24:36 +0000",
       "minecraft:drowned": "2025-04-01 14:10:23 +0000"
@@ -1180,6 +1183,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-04 16:20:27 +0000",
       "bread": "2025-04-01 14:46:46 +0000",
       "melon_slice": "2025-03-30 18:18:55 +0000"
     },
@@ -3915,9 +3919,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/soul_brazier": {
     "criteria": {
       "has_iron_bars": "2025-04-04 15:49:13 +0000"
+    },
+    "done": true
+  },
+  "the_pillager_legion_:achiv_kill_1_legionnaire_tpl": {
+    "criteria": {
+      "achiv_kill_1_legionnaire_tpl_0": "2025-04-04 16:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
     },
     "done": true
   },
@@ -3951,15 +3973,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-04-04 15:51:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-04 16:02:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-04-04 16:14:21 +0000"
     },
     "done": true
   },
@@ -3975,9 +4015,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-04 16:13:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-04-04 15:59:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-04 16:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
     },
     "done": true
   },
@@ -3999,9 +4057,27 @@
     },
     "done": true
   },
+  "the_pillager_legion_:achiv_get_axe_tpl": {
+    "criteria": {
+      "achiv_get_axe_tpl_0": "2025-04-04 16:16:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-04 15:51:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-04 16:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
     },
     "done": true
   },
@@ -4014,6 +4090,12 @@
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-04-04 15:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
     },
     "done": true
   },
@@ -4034,6 +4116,25 @@
       "has_egg": "2025-04-04 16:02:43 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-04 16:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-04 16:13:49 +0000"
+    },
+    "done": true
+  },
+  "the_pillager_legion_:achiv_get_legion_armor": {
+    "criteria": {
+      "achiv_get_legion_armor_3": "2025-04-04 16:17:06 +0000",
+      "achiv_get_legion_armor_1": "2025-04-04 16:17:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/clock": {
     "criteria": {
@@ -4065,9 +4166,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-04-04 15:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
     },
     "done": true
   },
@@ -4095,6 +4208,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-04 16:17:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-04-04 15:51:05 +0000"
@@ -4107,15 +4226,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-04-04 15:55:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-04 16:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-04-04 16:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 16:16:18 +0000"
     },
     "done": true
   },
