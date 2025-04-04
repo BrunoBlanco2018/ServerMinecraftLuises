@@ -482,3 +482,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Apr2025 16:19:56.048] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/36223, l='ServerLevel[world]', x=2602.50, y=12.00, z=75.50]
 [04Apr2025 16:22:57.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Once Upon a Cave]
 [04Apr2025 16:23:41.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Alex's Caves]
+[04Apr2025 16:33:15.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Eye Spy]
+[04Apr2025 16:34:06.344] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45896, l='ServerLevel[world]', x=2598.50, y=11.00, z=83.50]
+[04Apr2025 16:34:09.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has reached the goal [Horror of the Depths]
+[04Apr2025 16:34:51.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Disgusting Lootbox]
+[04Apr2025 16:35:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Eye Spy]
+[04Apr2025 16:36:10.794] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/47060, l='ServerLevel[world]', x=2119.50, y=49.00, z=491.50]
+[04Apr2025 16:39:49.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Deceived Hopes]
+[04Apr2025 16:40:10.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Deceived Hopes]
+[04Apr2025 16:42:19.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Life turned out to be a comedy]
+[04Apr2025 16:49:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Alex's Caves]
+[04Apr2025 16:50:01.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> FOLLI
+[04Apr2025 16:50:13.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Showing new title for 3 players]
+[04Apr2025 16:56:44.144] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/59787, l='ServerLevel[world]', x=2112.50, y=49.00, z=487.50]
+[04Apr2025 17:00:14.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
+[04Apr2025 17:00:14.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
+[04Apr2025 17:00:43.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bb18_[/127.63.123.64:57247] logged in with entity id 61456 at (1523.3893366617406, 68.49520087700593, 612.1663663580335)
+[04Apr2025 17:00:43.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ joined the game
+[04Apr2025 17:00:43.147] [Server thread/INFO] [Jade/]: Syncing config to bb18_ (e7d2f96e-b230-3996-ac05-f1178456b785)
+[04Apr2025 17:00:48.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ was slain by Nightmare Stalker
+[04Apr2025 17:00:48.801] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bb18_ with unique ID travelersbackpack.blaze_04.04.2025-17.00.48.dat
+[04Apr2025 17:00:48.802] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1521 Y: 68 Z: 611
