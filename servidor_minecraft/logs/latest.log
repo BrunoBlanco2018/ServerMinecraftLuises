@@ -1489,3 +1489,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Apr2025 17:58:04.304] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
 [04Apr2025 17:58:04.305] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
 [04Apr2025 17:58:04.305] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[04Apr2025 18:01:27.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Dungeon Delving]
+[04Apr2025 18:01:39.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Dungeon Delving]
