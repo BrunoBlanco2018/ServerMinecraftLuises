@@ -371,3 +371,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 19:16:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [The day of the Dead]
 [05Apr2025 19:25:39.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Vampire Slayer]
 [05Apr2025 19:26:06.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Miphril]
+[05Apr2025 19:30:02.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bb18_) moved wrongly! 0.36193913673059797
+[05Apr2025 19:30:02.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bb18_) moved wrongly! 0.7589308612236891
+[05Apr2025 19:30:02.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bb18_) moved wrongly! 1.005141243562207
+[05Apr2025 19:32:29.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9045, l='ServerLevel[world]', x=2250.60, y=64.56, z=956.08] died, message: 'Unemployed was slain by Goblin Thief'
+[05Apr2025 19:32:38.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9108, l='ServerLevel[world]', x=2250.80, y=64.56, z=956.17] died, message: 'Unemployed was slain by Goblin Thief'
+[05Apr2025 19:32:42.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9201, l='ServerLevel[world]', x=2252.51, y=64.50, z=947.13] died, message: 'Unemployed was slain by Goblin Thief'

@@ -6494,3 +6494,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 19:27:01.923] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 02fdd8a0-b66e-43d6-b7b2-c166004120c7
 [05Apr2025 19:27:01.923] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 02fdd8a0-b66e-43d6-b7b2-c166004120c7
 [05Apr2025 19:27:01.923] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 02fdd8a0-b66e-43d6-b7b2-c166004120c7
+[05Apr2025 19:28:31.823] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c137d230-9292-46e9-b3cb-bea01191b455
+[05Apr2025 19:28:31.823] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c137d230-9292-46e9-b3cb-bea01191b455
+[05Apr2025 19:28:31.823] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c137d230-9292-46e9-b3cb-bea01191b455
+[05Apr2025 19:28:31.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c137d230-9292-46e9-b3cb-bea01191b455
+[05Apr2025 19:28:31.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c137d230-9292-46e9-b3cb-bea01191b455
+[05Apr2025 19:28:49.080] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e6761898-8ab7-49af-8bdc-5139607e58a4
+[05Apr2025 19:28:49.081] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e6761898-8ab7-49af-8bdc-5139607e58a4
+[05Apr2025 19:28:49.081] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e6761898-8ab7-49af-8bdc-5139607e58a4
+[05Apr2025 19:28:49.081] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e6761898-8ab7-49af-8bdc-5139607e58a4
+[05Apr2025 19:28:49.081] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e6761898-8ab7-49af-8bdc-5139607e58a4
+[05Apr2025 19:29:27.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 19:29:27.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 19:29:43.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Apr2025 19:30:02.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bb18_) moved wrongly! 0.36193913673059797
+[05Apr2025 19:30:02.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bb18_) moved wrongly! 0.7589308612236891
+[05Apr2025 19:30:02.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bb18_) moved wrongly! 1.005141243562207
+[05Apr2025 19:30:22.926] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 8a6d4798-4f5c-4b46-91e9-9e36608f4721
+[05Apr2025 19:30:22.926] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 8a6d4798-4f5c-4b46-91e9-9e36608f4721
+[05Apr2025 19:30:22.926] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5c396eac-28ad-4087-9ffe-627131678f41
+[05Apr2025 19:30:22.926] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5c396eac-28ad-4087-9ffe-627131678f41
+[05Apr2025 19:30:22.927] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 5c396eac-28ad-4087-9ffe-627131678f41
+[05Apr2025 19:30:41.656] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Apr2025 19:30:49.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3f61c9d8-ff72-4149-86da-4111720220a9
+[05Apr2025 19:30:49.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3f61c9d8-ff72-4149-86da-4111720220a9
+[05Apr2025 19:30:49.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3f61c9d8-ff72-4149-86da-4111720220a9
+[05Apr2025 19:30:49.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3f61c9d8-ff72-4149-86da-4111720220a9
+[05Apr2025 19:30:49.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3f61c9d8-ff72-4149-86da-4111720220a9
+[05Apr2025 19:32:14.628] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 958477ba-d20b-4c62-8313-74535596f83e
+[05Apr2025 19:32:14.628] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 958477ba-d20b-4c62-8313-74535596f83e
+[05Apr2025 19:32:14.629] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 958477ba-d20b-4c62-8313-74535596f83e
+[05Apr2025 19:32:14.629] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 958477ba-d20b-4c62-8313-74535596f83e
+[05Apr2025 19:32:14.629] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 958477ba-d20b-4c62-8313-74535596f83e
+[05Apr2025 19:32:29.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9045, l='ServerLevel[world]', x=2250.60, y=64.56, z=956.08] died, message: 'Unemployed was slain by Goblin Thief'
+[05Apr2025 19:32:38.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9108, l='ServerLevel[world]', x=2250.80, y=64.56, z=956.17] died, message: 'Unemployed was slain by Goblin Thief'
+[05Apr2025 19:32:42.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9201, l='ServerLevel[world]', x=2252.51, y=64.50, z=947.13] died, message: 'Unemployed was slain by Goblin Thief'
+[05Apr2025 19:33:36.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 05b04eb8-0a1c-440b-b2b1-485854a5f750
+[05Apr2025 19:33:36.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 05b04eb8-0a1c-440b-b2b1-485854a5f750
+[05Apr2025 19:33:36.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 05b04eb8-0a1c-440b-b2b1-485854a5f750
+[05Apr2025 19:33:36.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 05b04eb8-0a1c-440b-b2b1-485854a5f750
+[05Apr2025 19:33:36.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 05b04eb8-0a1c-440b-b2b1-485854a5f750
+[05Apr2025 19:34:27.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 19:34:27.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 19:36:53.060] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [c1e9d1e3-63b3-490c-971e-0303674876f5]
+[05Apr2025 19:36:56.875] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c1e9d1e3-63b3-490c-971e-0303674876f5
+[05Apr2025 19:36:56.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c1e9d1e3-63b3-490c-971e-0303674876f5
+[05Apr2025 19:36:56.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c1e9d1e3-63b3-490c-971e-0303674876f5
+[05Apr2025 19:36:56.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c1e9d1e3-63b3-490c-971e-0303674876f5
+[05Apr2025 19:36:56.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c1e9d1e3-63b3-490c-971e-0303674876f5
