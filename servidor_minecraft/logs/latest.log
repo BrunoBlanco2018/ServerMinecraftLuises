@@ -424,3 +424,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 16:59:16.554] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1587 Y: 75 Z: 873
 [05Apr2025 17:05:00.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [The Andesite Age]
 [05Apr2025 17:08:07.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Bonk!]
+[05Apr2025 17:12:48.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [Senior Summoner]
+[05Apr2025 17:23:42.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Dark Forging]
+[05Apr2025 17:28:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [Compact Necromancy]
+[05Apr2025 17:28:25.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Best Friends Forever]
+[05Apr2025 17:29:41.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [We do a little trolling...]
