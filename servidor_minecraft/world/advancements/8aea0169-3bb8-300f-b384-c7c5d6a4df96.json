@@ -7367,5 +7367,17 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-04-05 16:28:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-04-05 16:28:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
