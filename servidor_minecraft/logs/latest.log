@@ -435,3 +435,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 17:49:48.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Life turned out to be a comedy]
 [05Apr2025 18:07:06.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [Fighting Nightmares]
 [05Apr2025 18:12:29.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has reached the goal [Big Boy]
+[05Apr2025 18:23:55.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli was slain by Nightmare Stalker
+[05Apr2025 18:23:55.740] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Foxyfolli with unique ID travelersbackpack.squid_05.04.2025-18.23.55.dat
+[05Apr2025 18:23:55.745] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 217 Y: 87 Z: 88
+[05Apr2025 18:25:37.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has reached the goal [Fighting Nightmares]
+[05Apr2025 18:25:57.411] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 3 ms
+[05Apr2025 18:29:10.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Hidden in the Depths]
