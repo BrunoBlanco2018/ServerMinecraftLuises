@@ -377,3 +377,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 19:32:29.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9045, l='ServerLevel[world]', x=2250.60, y=64.56, z=956.08] died, message: 'Unemployed was slain by Goblin Thief'
 [05Apr2025 19:32:38.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9108, l='ServerLevel[world]', x=2250.80, y=64.56, z=956.17] died, message: 'Unemployed was slain by Goblin Thief'
 [05Apr2025 19:32:42.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9201, l='ServerLevel[world]', x=2252.51, y=64.50, z=947.13] died, message: 'Unemployed was slain by Goblin Thief'
+[05Apr2025 19:38:50.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Chest Slayer]
+[05Apr2025 19:39:29.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [The Parrots and the Bats]
+[05Apr2025 19:42:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ was slain by Cachalot Whale
+[05Apr2025 19:42:31.028] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bb18_ with unique ID travelersbackpack.blaze_05.04.2025-19.42.31.dat
+[05Apr2025 19:42:31.031] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 2376 Y: 61.996011364798605 Z: 373
+[05Apr2025 19:47:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Hello ?]

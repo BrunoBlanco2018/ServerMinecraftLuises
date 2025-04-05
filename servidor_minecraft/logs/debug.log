@@ -6542,3 +6542,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 19:36:56.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c1e9d1e3-63b3-490c-971e-0303674876f5
 [05Apr2025 19:36:56.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c1e9d1e3-63b3-490c-971e-0303674876f5
 [05Apr2025 19:36:56.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c1e9d1e3-63b3-490c-971e-0303674876f5
+[05Apr2025 19:38:50.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7655640-c4a6-486b-8ab0-4cfd95824b3e
+[05Apr2025 19:38:50.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7655640-c4a6-486b-8ab0-4cfd95824b3e
+[05Apr2025 19:38:50.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7655640-c4a6-486b-8ab0-4cfd95824b3e
+[05Apr2025 19:38:50.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7655640-c4a6-486b-8ab0-4cfd95824b3e
+[05Apr2025 19:38:50.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7655640-c4a6-486b-8ab0-4cfd95824b3e
+[05Apr2025 19:38:50.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Chest Slayer]
+[05Apr2025 19:39:27.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 19:39:27.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 19:39:29.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [The Parrots and the Bats]
+[05Apr2025 19:41:54.825] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:41:54.826] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:41:54.826] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:41:54.826] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:41:54.826] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:42:15.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:42:15.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:42:15.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:42:15.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:42:15.480] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 13d228e6-4415-4426-9568-e22cf1dcdadb
+[05Apr2025 19:42:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ was slain by Cachalot Whale
+[05Apr2025 19:42:31.028] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bb18_ with unique ID travelersbackpack.blaze_05.04.2025-19.42.31.dat
+[05Apr2025 19:42:31.031] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 2376 Y: 61.996011364798605 Z: 373
+[05Apr2025 19:43:06.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 523a3027-97f3-407a-99b8-359b7c0f8433
+[05Apr2025 19:43:06.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 523a3027-97f3-407a-99b8-359b7c0f8433
+[05Apr2025 19:43:06.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 523a3027-97f3-407a-99b8-359b7c0f8433
+[05Apr2025 19:43:06.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 523a3027-97f3-407a-99b8-359b7c0f8433
+[05Apr2025 19:43:06.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 523a3027-97f3-407a-99b8-359b7c0f8433
+[05Apr2025 19:44:27.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 19:44:27.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 19:45:09.873] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 72fa7c20-f597-4671-b579-7304e195c4b0
+[05Apr2025 19:45:09.873] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 72fa7c20-f597-4671-b579-7304e195c4b0
+[05Apr2025 19:45:09.873] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 72fa7c20-f597-4671-b579-7304e195c4b0
+[05Apr2025 19:45:09.873] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 72fa7c20-f597-4671-b579-7304e195c4b0
+[05Apr2025 19:45:09.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 72fa7c20-f597-4671-b579-7304e195c4b0
+[05Apr2025 19:46:17.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 9deff852-a0dd-4ffc-8efb-de6f6b8b5037
+[05Apr2025 19:46:17.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 9deff852-a0dd-4ffc-8efb-de6f6b8b5037
+[05Apr2025 19:46:17.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 9deff852-a0dd-4ffc-8efb-de6f6b8b5037
+[05Apr2025 19:46:17.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 9deff852-a0dd-4ffc-8efb-de6f6b8b5037
+[05Apr2025 19:46:17.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 9deff852-a0dd-4ffc-8efb-de6f6b8b5037
+[05Apr2025 19:47:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Hello ?]
+[05Apr2025 19:48:00.927] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 51728d3a-47e3-45ef-9dd3-12f621f84827
+[05Apr2025 19:48:00.927] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 51728d3a-47e3-45ef-9dd3-12f621f84827
+[05Apr2025 19:48:00.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 51728d3a-47e3-45ef-9dd3-12f621f84827
+[05Apr2025 19:48:00.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 51728d3a-47e3-45ef-9dd3-12f621f84827
+[05Apr2025 19:48:00.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 51728d3a-47e3-45ef-9dd3-12f621f84827
