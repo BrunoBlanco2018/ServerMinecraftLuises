@@ -5745,6 +5745,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2025-04-05 17:04:47 +0000"
@@ -5766,6 +5772,12 @@
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-04-05 17:04:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
     },
     "done": true
   },
@@ -5805,6 +5817,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-04-05 17:35:03 +0000"
@@ -5832,6 +5850,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2025-04-05 17:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 17:44:25 +0000"
     },
     "done": true
   },
@@ -5877,9 +5901,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-05 17:46:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-04-05 17:54:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2025-04-05 17:05:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
     },
     "done": true
   },
@@ -5889,9 +5931,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-05 17:35:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
     },
     "done": true
   },
@@ -5913,15 +5973,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 17:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-04-05 17:33:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 17:44:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-04-05 17:05:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
     },
     "done": true
   },
@@ -5973,9 +6051,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-05 17:35:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-04-05 17:54:46 +0000"
     },
     "done": true
   },
@@ -6093,6 +6183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 17:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-05 17:31:33 +0000"
@@ -6183,6 +6279,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-04-05 17:53:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2025-04-05 17:04:47 +0000"
@@ -6249,6 +6357,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2025-04-05 17:04:47 +0000"
@@ -6285,15 +6405,57 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-04-05 17:49:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-04-05 16:27:43 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-05 17:46:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-04-05 17:05:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-05 17:44:22 +0000"
     },
     "done": true
   },
@@ -6342,6 +6504,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-05 16:54:40 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-04-05 17:54:33 +0000"
     },
     "done": true
   },
@@ -6477,6 +6645,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2025-04-05 17:35:03 +0000"
@@ -6486,6 +6660,12 @@
   "minecraft:recipes/decorations/acacia_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-05 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-04-05 17:53:16 +0000"
     },
     "done": true
   },
@@ -6510,6 +6690,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-05 16:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 17:44:25 +0000"
     },
     "done": true
   },
@@ -6585,9 +6771,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-04-05 17:54:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-05 17:34:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
     },
     "done": true
   },
@@ -6621,9 +6819,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-05 17:46:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-04-05 17:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 17:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-05 17:04:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-04-05 17:46:30 +0000"
     },
     "done": true
   },

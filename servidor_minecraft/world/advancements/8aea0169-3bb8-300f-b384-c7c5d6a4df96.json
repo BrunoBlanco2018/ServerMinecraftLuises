@@ -7377,6 +7377,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-04-05 17:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-04-05 17:21:05 +0000"
@@ -7395,6 +7401,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-04-05 17:48:55 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_forging": {
     "criteria": {
       "dark_forging_0": "2025-04-05 17:23:42 +0000"
@@ -7410,6 +7422,12 @@
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2025-04-05 16:28:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-04-05 17:48:55 +0000"
     },
     "done": true
   },

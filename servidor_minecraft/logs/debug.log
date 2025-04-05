@@ -6617,3 +6617,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Apr2025 17:36:58.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Spooky Scary Skeleton]
 [05Apr2025 17:37:36.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Apr2025 17:37:36.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 17:42:07.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [e7d2f96e-b230-3996-ac05-f1178456b785]
+[05Apr2025 17:42:36.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 17:42:36.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 17:44:20.852] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Apr2025 17:44:37.205] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Apr2025 17:47:36.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 17:47:36.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 17:49:48.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Life turned out to be a comedy]
+[05Apr2025 17:52:36.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 17:52:36.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 17:56:35.060] [Server thread/DEBUG] [mixin/]: Mixing TankSegmentAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.blockEntity.behaviour.fluid.SmartFluidTankBehaviour$TankSegment
+[05Apr2025 17:56:35.060] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:TankSegmentAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[05Apr2025 17:57:36.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 17:57:36.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
