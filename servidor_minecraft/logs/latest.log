@@ -472,3 +472,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 17:58:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has completed the challenge [Staff of Blood]
 [06Apr2025 17:58:24.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [No Longer Short-Staffed]
 [06Apr2025 18:12:34.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 18:14:09.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> polla de negro
+[06Apr2025 18:19:30.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2270, y=63, z=994} BlockPos{x=2272, y=63, z=991}
