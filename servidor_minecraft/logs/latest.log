@@ -380,3 +380,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 16:57:22.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [We Just Want our Hat Back]
 [06Apr2025 16:58:22.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [We Just Want our Hat Back]
 [06Apr2025 16:58:57.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [A Bone to Pick]
+[06Apr2025 17:01:39.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:44.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:44.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:45.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:46.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:46.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:50.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:51.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:51.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:52.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:52.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
+[06Apr2025 17:01:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 was slain by Giant Squid
+[06Apr2025 17:01:53.422] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nicasexy_22 with unique ID travelersbackpack.squid_06.04.2025-17.01.53.dat
+[06Apr2025 17:01:53.427] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2449 Y: 1 Z: 138
+[06Apr2025 17:06:15.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alcorcas[/127.93.55.24:33797] logged in with entity id 7568 at (120.5, 66.0, -68.5)
+[06Apr2025 17:06:15.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alcorcas joined the game
+[06Apr2025 17:06:15.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alcorcas has reached the goal [Choose Your Class]
+[06Apr2025 17:06:15.105] [Server thread/INFO] [Jade/]: Syncing config to Alcorcas (5735501f-fc9e-3431-9ee4-9bf53b494f0b)
+[06Apr2025 17:06:32.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=138, y=66, z=-48}
+[06Apr2025 17:06:32.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=140, y=66, z=-49}
+[06Apr2025 17:06:36.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=138, y=66, z=-48}
+[06Apr2025 17:06:45.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alcorcas lost connection: Disconnected
+[06Apr2025 17:06:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alcorcas left the game
