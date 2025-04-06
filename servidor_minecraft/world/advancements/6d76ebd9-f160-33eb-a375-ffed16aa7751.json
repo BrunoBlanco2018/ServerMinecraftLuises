@@ -5146,6 +5146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-06 17:28:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-06 17:23:01 +0000"
@@ -5155,6 +5161,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-06 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-06 17:29:36 +0000"
     },
     "done": true
   },
@@ -5176,6 +5188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-06 17:27:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-06 17:23:01 +0000"
@@ -5191,6 +5209,18 @@
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-06 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "the_pillager_legion_:achiv_get_pickaxe_tpl": {
+    "criteria": {
+      "achiv_get_pickaxe_tpl_0": "2025-04-06 17:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-06 17:27:47 +0000"
     },
     "done": true
   },
@@ -5233,6 +5263,18 @@
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-06 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "the_pillager_legion_:achiv_kill_10_legionnaire_tpl": {
+    "criteria": {
+      "achiv_kill_10_legionnaire_tpl_0": "2025-04-06 17:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-06 17:27:47 +0000"
     },
     "done": true
   },

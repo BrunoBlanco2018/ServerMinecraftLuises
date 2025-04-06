@@ -408,3 +408,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 17:29:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Cover Me with Diamonds]
 [06Apr2025 17:29:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [A Seedy Place]
 [06Apr2025 17:30:58.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [I think we have a problem ?!]
+[06Apr2025 17:31:59.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Nice Pickaxe !]
+[06Apr2025 17:37:41.087] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
+[06Apr2025 17:37:41.088] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
+[06Apr2025 17:37:41.089] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
+[06Apr2025 17:37:41.090] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
+[06Apr2025 17:37:41.090] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
+[06Apr2025 17:37:41.090] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
+[06Apr2025 17:38:00.551] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/43938, l='ServerLevel[world]', x=2474.50, y=9.00, z=-656.50]
+[06Apr2025 17:38:58.254] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44982, l='ServerLevel[world]', x=2473.50, y=4.00, z=-660.50]
+[06Apr2025 17:39:33.251] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45201, l='ServerLevel[world]', x=2482.50, y=-1.00, z=-652.50]
+[06Apr2025 17:40:20.303] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45560, l='ServerLevel[world]', x=2493.50, y=9.00, z=-657.50]
+[06Apr2025 17:40:25.353] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45644, l='ServerLevel[world]', x=2491.50, y=-3.00, z=-659.50]

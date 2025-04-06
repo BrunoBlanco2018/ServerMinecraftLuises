@@ -6968,3 +6968,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 17:29:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Cover Me with Diamonds]
 [06Apr2025 17:29:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [A Seedy Place]
 [06Apr2025 17:30:58.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [I think we have a problem ?!]
+[06Apr2025 17:31:59.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Nice Pickaxe !]
+[06Apr2025 17:32:29.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 17:32:29.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 17:37:29.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 17:37:29.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 17:37:41.087] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
+[06Apr2025 17:37:41.088] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
+[06Apr2025 17:37:41.089] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
+[06Apr2025 17:37:41.090] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
+[06Apr2025 17:37:41.090] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
+[06Apr2025 17:37:41.090] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
+[06Apr2025 17:37:46.422] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fd6bf51d-7635-4290-a135-99179a3e905b
+[06Apr2025 17:37:46.422] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fd6bf51d-7635-4290-a135-99179a3e905b
+[06Apr2025 17:37:46.422] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fd6bf51d-7635-4290-a135-99179a3e905b
+[06Apr2025 17:37:46.422] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fd6bf51d-7635-4290-a135-99179a3e905b
+[06Apr2025 17:37:46.422] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: fd6bf51d-7635-4290-a135-99179a3e905b
+[06Apr2025 17:38:00.551] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/43938, l='ServerLevel[world]', x=2474.50, y=9.00, z=-656.50]
+[06Apr2025 17:38:06.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d310d9c4-bf4b-4942-a8dc-3ef4b4f75f47
+[06Apr2025 17:38:06.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d310d9c4-bf4b-4942-a8dc-3ef4b4f75f47
+[06Apr2025 17:38:06.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d310d9c4-bf4b-4942-a8dc-3ef4b4f75f47
+[06Apr2025 17:38:06.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d310d9c4-bf4b-4942-a8dc-3ef4b4f75f47
+[06Apr2025 17:38:06.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d310d9c4-bf4b-4942-a8dc-3ef4b4f75f47
+[06Apr2025 17:38:14.090] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[06Apr2025 17:38:54.019] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 860660ae-8bad-4ff3-84a2-e11a55fc06ca
+[06Apr2025 17:38:54.019] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 860660ae-8bad-4ff3-84a2-e11a55fc06ca
+[06Apr2025 17:38:54.019] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 860660ae-8bad-4ff3-84a2-e11a55fc06ca
+[06Apr2025 17:38:54.019] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 860660ae-8bad-4ff3-84a2-e11a55fc06ca
+[06Apr2025 17:38:54.020] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 860660ae-8bad-4ff3-84a2-e11a55fc06ca
+[06Apr2025 17:38:58.254] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44982, l='ServerLevel[world]', x=2473.50, y=4.00, z=-660.50]
+[06Apr2025 17:39:33.251] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45201, l='ServerLevel[world]', x=2482.50, y=-1.00, z=-652.50]
+[06Apr2025 17:39:41.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:39:41.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:39:41.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:39:41.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:39:41.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:39:41.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:39:41.868] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:39:41.868] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:39:41.868] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:39:41.868] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d38bc47a-6a77-4d11-9fab-0f984e6e1588
+[06Apr2025 17:40:20.303] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45560, l='ServerLevel[world]', x=2493.50, y=9.00, z=-657.50]
+[06Apr2025 17:40:25.353] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45644, l='ServerLevel[world]', x=2491.50, y=-3.00, z=-659.50]
