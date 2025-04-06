@@ -573,3 +573,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 15:59:08.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Spectator Mode]
 [06Apr2025 15:59:11.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Teleported bb18_ to nicasexy_22]
 [06Apr2025 15:59:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
+[06Apr2025 16:08:49.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Spectator Mode]
+[06Apr2025 16:08:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Creative Mode]

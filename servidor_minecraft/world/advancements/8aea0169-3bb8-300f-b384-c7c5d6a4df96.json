@@ -890,6 +890,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-06 16:17:44 +0000",
       "cooked_mutton": "2025-04-01 17:25:54 +0000",
       "cooked_beef": "2025-04-05 17:01:25 +0000",
       "beef": "2025-03-30 02:01:20 +0000",
@@ -8304,6 +8305,18 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-04-06 16:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-06 16:11:05 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_oak_table": {
     "criteria": {
       "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
@@ -8370,6 +8383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-06 16:11:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
@@ -8379,6 +8398,12 @@
   "valhelsia_furniture:recipes/decorations/yellow_spruce_table": {
     "criteria": {
       "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-04-06 16:11:05 +0000"
     },
     "done": true
   },
@@ -8397,6 +8422,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-06 15:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-06 16:11:05 +0000"
     },
     "done": true
   },
