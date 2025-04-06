@@ -554,3 +554,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 15:41:43.212] [Server thread/INFO] [Jade/]: Syncing config to bb18_ (e7d2f96e-b230-3996-ac05-f1178456b785)
 [06Apr2025 15:43:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicasexy_22> zzzz
 [06Apr2025 15:47:14.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli has made the advancement [Hot Stuff]
+[06Apr2025 15:52:01.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Spectator Mode]
+[06Apr2025 15:52:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Teleported bb18_ to Foxyfolli]
+[06Apr2025 15:53:40.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Teleported bb18_ to nicasexy_22]
+[06Apr2025 15:53:43.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
+[06Apr2025 15:57:05.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 was shot by entity.rpgsmw.deafult_rifle_shot_projectile
+[06Apr2025 15:57:05.223] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nicasexy_22 with unique ID travelersbackpack.squid_06.04.2025-15.57.05.dat
+[06Apr2025 15:57:05.224] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1596 Y: 72 Z: 636
+[06Apr2025 15:58:07.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Spectator Mode]
+[06Apr2025 15:58:10.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Teleported bb18_ to Foxyfolli]
+[06Apr2025 15:58:31.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli was slain by Zombie
+[06Apr2025 15:58:40.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
+[06Apr2025 15:58:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli was slain by nicasexy_22
+[06Apr2025 15:58:44.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Spectator Mode]
+[06Apr2025 15:58:49.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli was slain by nicasexy_22
+[06Apr2025 15:58:56.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli was slain by nicasexy_22
+[06Apr2025 15:59:00.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
+[06Apr2025 15:59:08.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Spectator Mode]
+[06Apr2025 15:59:11.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Teleported bb18_ to nicasexy_22]
+[06Apr2025 15:59:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
