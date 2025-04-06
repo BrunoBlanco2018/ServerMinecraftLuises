@@ -7072,3 +7072,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 17:57:29.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Apr2025 17:58:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has completed the challenge [Staff of Blood]
 [06Apr2025 17:58:24.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [No Longer Short-Staffed]
+[06Apr2025 18:02:29.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 18:02:29.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 18:03:03.009] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7d2f96e-b230-3996-ac05-f1178456b785
+[06Apr2025 18:03:03.009] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7d2f96e-b230-3996-ac05-f1178456b785
+[06Apr2025 18:03:03.009] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7d2f96e-b230-3996-ac05-f1178456b785
+[06Apr2025 18:03:03.010] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7d2f96e-b230-3996-ac05-f1178456b785
+[06Apr2025 18:03:03.010] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7d2f96e-b230-3996-ac05-f1178456b785
+[06Apr2025 18:03:03.010] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7d2f96e-b230-3996-ac05-f1178456b785
+[06Apr2025 18:03:03.010] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: b472fc12-69dc-4bfb-93c4-d32a5dbd32b8
+[06Apr2025 18:03:03.010] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: b472fc12-69dc-4bfb-93c4-d32a5dbd32b8
+[06Apr2025 18:03:03.010] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7d2f96e-b230-3996-ac05-f1178456b785
+[06Apr2025 18:03:03.010] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e7d2f96e-b230-3996-ac05-f1178456b785
+[06Apr2025 18:07:29.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 18:07:29.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 18:12:29.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 18:12:29.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 18:12:34.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 moved wrongly!
