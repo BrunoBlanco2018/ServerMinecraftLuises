@@ -391,3 +391,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 19:06:11.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bb18_: Set own game mode to Survival Mode]
 [06Apr2025 19:07:40.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
 [06Apr2025 19:07:40.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
+[06Apr2025 19:18:08.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Public Disturber !]
+[06Apr2025 19:20:36.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Wanted by the Legion !]
+[06Apr2025 19:23:51.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has completed the challenge [The most wanted !]

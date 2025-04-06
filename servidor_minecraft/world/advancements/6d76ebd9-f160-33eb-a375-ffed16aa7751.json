@@ -5521,6 +5521,12 @@
     },
     "done": true
   },
+  "the_pillager_legion_:achiv_kill_25_legionnaire_tpl": {
+    "criteria": {
+      "achiv_kill_25_legionnaire_tpl_0": "2025-04-06 19:18:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-06 18:59:15 +0000"
@@ -5620,6 +5626,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-06 18:59:15 +0000"
+    },
+    "done": true
+  },
+  "the_pillager_legion_:achiv_kill_50_legionnaire_tpl": {
+    "criteria": {
+      "achiv_kill_50_legionnaire_tpl_0": "2025-04-06 19:20:36 +0000"
     },
     "done": true
   },
