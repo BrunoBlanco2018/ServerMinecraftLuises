@@ -403,3 +403,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Apr2025 19:30:23.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:51259] logged in with entity id 12666 at (1941.1290507301007, -14.0, -501.46735920751473)
 [06Apr2025 19:30:23.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
 [06Apr2025 19:30:23.080] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[06Apr2025 19:45:45.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Disconnected
+[06Apr2025 19:45:45.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
+[06Apr2025 19:52:38.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:55211] logged in with entity id 23678 at (2304.2216825367896, 70.0, 672.7738699943926)
+[06Apr2025 19:52:38.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
+[06Apr2025 19:52:38.872] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
+[06Apr2025 19:55:08.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
+[06Apr2025 19:55:08.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
