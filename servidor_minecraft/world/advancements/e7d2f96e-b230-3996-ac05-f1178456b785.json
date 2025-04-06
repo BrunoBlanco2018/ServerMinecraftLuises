@@ -7724,15 +7724,45 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+  "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
+      "killed_by": "2025-04-06 16:57:22 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
+  "alexsmobs:alexsmobs/fish_bones": {
     "criteria": {
-      "has_spruce_planks": "2025-04-06 17:58:39 +0000"
+      "sopa_de_macaco": "2025-04-06 16:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-06 17:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-06 17:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-06 17:03:50 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-04-06 17:17:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
     },
     "done": true
   },
@@ -7748,6 +7778,108 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-06 17:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-04-06 17:26:25 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-04-06 17:58:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-04-06 17:58:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-06 17:58:39 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/spruce_desk_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-04-06 17:58:39 +0000"
@@ -7757,12 +7889,6 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-06 17:58:39 +0000"
-    },
-    "done": true
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2025-04-06 17:17:26 +0000"
     },
     "done": true
   },
@@ -7832,24 +7958,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-04-06 17:03:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-06 17:58:39 +0000"
@@ -7886,27 +7994,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-04-06 17:03:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-06 17:58:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-04-06 17:03:50 +0000"
     },
     "done": true
   },
@@ -7922,12 +8012,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-06 17:58:39 +0000"
@@ -7937,18 +8021,6 @@
   "valhelsia_furniture:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2025-04-06 17:58:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
     },
     "done": true
   },
@@ -7970,24 +8042,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
-    "criteria": {
-      "requirement": "2025-04-06 17:58:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-06 17:58:39 +0000"
@@ -7997,12 +8051,6 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-06 17:58:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
     },
     "done": true
   },
@@ -8024,21 +8072,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/fish_bones": {
-    "criteria": {
-      "sopa_de_macaco": "2025-04-06 16:58:57 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-06 17:58:39 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2025-04-06 17:58:24 +0000"
     },
     "done": true
   },
@@ -8060,12 +8096,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-04-06 17:58:39 +0000"
@@ -8078,33 +8108,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
-  "create:contraption_actors": {
-    "criteria": {
-      "0": "2025-04-06 17:26:25 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-06 17:58:39 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2025-04-06 16:57:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
     },
     "done": true
   },
@@ -8120,12 +8126,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2025-04-06 17:23:41 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/blue_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-06 17:58:39 +0000"
@@ -8138,9 +8138,165 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
-      "requirement": "2025-04-06 17:58:24 +0000"
+      "requirement": "2025-04-06 17:58:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-04-06 18:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-04-06 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-04-06 18:58:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-04-06 18:59:11 +0000"
     },
     "done": true
   },
