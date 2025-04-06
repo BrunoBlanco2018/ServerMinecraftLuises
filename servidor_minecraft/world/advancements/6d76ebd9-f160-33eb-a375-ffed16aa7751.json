@@ -1191,6 +1191,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-04 16:29:05 +0000",
       "cooked_mutton": "2025-04-04 16:20:27 +0000",
+      "cooked_beef": "2025-04-06 17:49:20 +0000",
       "bread": "2025-04-01 14:46:46 +0000",
       "golden_apple": "2025-04-06 15:40:48 +0000",
       "melon_slice": "2025-03-30 18:18:55 +0000"
@@ -4266,6 +4267,7 @@
   "the_pillager_legion_:achiv_get_legion_armor": {
     "criteria": {
       "achiv_get_legion_armor_3": "2025-04-04 16:17:06 +0000",
+      "achiv_get_legion_armor_0": "2025-04-06 17:41:40 +0000",
       "achiv_get_legion_armor_1": "2025-04-04 16:17:46 +0000"
     },
     "done": false
@@ -5230,9 +5232,21 @@
     },
     "done": true
   },
+  "the_pillager_legion_:achiv_get_showel_tpl": {
+    "criteria": {
+      "achiv_get_showel_tpl_0": "2025-04-06 17:53:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-04-06 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2025-04-06 17:44:11 +0000"
     },
     "done": true
   },
@@ -5275,6 +5289,18 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-04-06 17:27:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-04-06 17:50:03 +0000"
+    },
+    "done": true
+  },
+  "the_pillager_legion_:achiv_get_legion_sword": {
+    "criteria": {
+      "achiv_get_legion_sword_0": "2025-04-06 17:52:36 +0000"
     },
     "done": true
   },
