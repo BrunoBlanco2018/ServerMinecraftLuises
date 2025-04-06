@@ -8089,18 +8089,6 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/glazed_jar": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 15:52:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/yellow_dark_oak_table": {
     "criteria": {
       "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
@@ -8113,27 +8101,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 15:52:31 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/yellow_crimson_table": {
     "criteria": {
       "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 15:52:31 +0000"
     },
     "done": true
   },
@@ -8143,27 +8113,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
+  "valhelsia_furniture:recipes/decorations/yellow_warped_table": {
     "criteria": {
-      "has_terracotta": "2025-04-06 15:52:31 +0000"
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+  "valhelsia_furniture:recipes/decorations/yellow_birch_table": {
     "criteria": {
-      "has_terracotta": "2025-04-06 15:52:31 +0000"
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_jungle_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_oak_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_cherry_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_spruce_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-04-06 15:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-06 15:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-06 15:42:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 15:52:31 +0000"
     },
     "done": true
   },
@@ -8179,18 +8197,6 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/big_glazed_jar": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 15:52:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-06 15:47:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
@@ -8203,27 +8209,141 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 15:52:31 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-06 15:47:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/glazed_jar": {
     "criteria": {
       "has_terracotta": "2025-04-06 15:52:31 +0000"
     },
     "done": true
   },
-  "valhelsia_structures:recipes/building_blocks/dark_oak_post": {
+  "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
-      "has_item": "2025-04-06 15:42:00 +0000"
+      "has_terracotta": "2025-04-06 15:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 15:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 15:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 15:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 15:52:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_glazed_jar": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 15:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 15:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 15:52:31 +0000"
     },
     "done": true
   },
@@ -8251,51 +8371,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_warped_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-06 15:52:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_birch_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_jungle_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
     },
     "done": true
   },
@@ -8305,105 +8383,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
-    "criteria": {
-      "requirement": "2025-04-06 16:14:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-04-06 16:11:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_oak_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-04-06 15:42:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-06 15:52:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-06 15:42:00 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_cherry_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-04-06 16:11:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_spruce_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
-    "criteria": {
-      "has_moss_block": "2025-04-06 16:11:05 +0000"
     },
     "done": true
   },
@@ -8413,21 +8395,51 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-06 15:45:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-06 15:52:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-06 16:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-06 16:11:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-04-06 16:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-06 16:11:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-04-06 16:14:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-04-06 16:32:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-04-06 16:32:09 +0000"
     },
     "done": true
   },
