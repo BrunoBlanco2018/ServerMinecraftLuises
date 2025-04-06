@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-04-06 15:14:39 +0000",
       "minecraft:savanna_plateau": "2025-04-01 13:41:30 +0000",
       "minecraft:beach": "2025-03-31 21:58:06 +0000",
       "minecraft:stony_peaks": "2025-04-01 18:46:40 +0000",
@@ -725,6 +726,7 @@
       "rocky_rainforest": "2025-04-01 18:43:54 +0000",
       "lavender_field": "2025-04-01 14:23:20 +0000",
       "prairie": "2025-03-30 01:54:05 +0000",
+      "glowing_grotto": "2025-04-06 15:13:17 +0000",
       "rainforest": "2025-04-01 14:33:02 +0000",
       "crag": "2025-03-30 02:02:15 +0000"
     },
@@ -7867,6 +7869,300 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-04-05 20:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-06 14:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-06 14:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-06 14:27:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-06 14:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-04-06 14:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-04-06 14:29:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_log": {
+    "criteria": {
+      "has_item": "2025-04-06 14:29:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-06 14:33:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-06 14:33:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-04-06 14:33:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-04-06 14:33:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-04-06 14:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-06 14:35:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-04-06 14:35:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-06 14:57:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-06 14:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-06 14:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-06 14:57:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-06 15:04:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_light_gray_glazed_jar": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-04-06 15:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-04-06 15:05:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/light_gray_glazed_jar": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-04-06 15:05:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-04-06 15:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-04-06 15:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-04-06 15:20:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_dark_oak_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_mangrove_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_crimson_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_acacia_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-04-06 15:42:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_warped_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_birch_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_jungle_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_oak_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-06 15:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-06 15:42:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_cherry_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_spruce_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-04-06 15:34:48 +0000"
     },
     "done": true
   },
