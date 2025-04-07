@@ -7005,3 +7005,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Apr2025 23:18:33.535] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [07Apr2025 23:19:04.765] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [07Apr2025 23:19:04.765] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[07Apr2025 23:21:18.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 23:21:18.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 23:21:33.959] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[07Apr2025 23:22:50.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Nice Pickaxe !]
+[07Apr2025 23:24:40.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [Eye Spy]
+[07Apr2025 23:26:18.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 23:26:18.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 23:28:05.430] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Apr2025 23:28:12.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Apr2025 23:29:30.683] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Apr2025 23:29:40.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
