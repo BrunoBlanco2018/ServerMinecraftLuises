@@ -5,3 +5,5 @@
 [08Apr2025 00:23:56.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has reached the goal [Sky's the Limit]
 [08Apr2025 00:24:41.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Hunt and Gather]
 [08Apr2025 00:25:33.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Local Brewery]
+[08Apr2025 00:37:56.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Timed out
+[08Apr2025 00:37:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game

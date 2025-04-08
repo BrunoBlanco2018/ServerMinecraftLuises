@@ -5698,6 +5698,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-04-08 00:29:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-04-07 23:38:16 +0000"
