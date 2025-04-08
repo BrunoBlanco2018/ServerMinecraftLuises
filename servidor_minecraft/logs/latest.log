@@ -390,3 +390,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 12:59:37.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:41629] logged in with entity id 18802 at (1592.309163272072, 72.0, 635.4370385622913)
 [08Apr2025 12:59:37.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
 [08Apr2025 12:59:37.865] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
+[08Apr2025 13:07:09.132] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[08Apr2025 13:08:04.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
+[08Apr2025 13:08:04.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
+[08Apr2025 13:10:03.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxyfolli lost connection: Disconnected
+[08Apr2025 13:10:03.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli left the game
