@@ -6315,3 +6315,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 12:19:01.849] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$a672e681a39c45a787ce5e9b9f1c168e (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
 [08Apr2025 12:21:00.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Apr2025 12:21:00.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Apr2025 12:26:00.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Apr2025 12:26:00.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Apr2025 12:28:35.708] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[08Apr2025 12:28:59.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ has made the advancement [What a Deal!]
+[08Apr2025 12:31:00.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Apr2025 12:31:00.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
