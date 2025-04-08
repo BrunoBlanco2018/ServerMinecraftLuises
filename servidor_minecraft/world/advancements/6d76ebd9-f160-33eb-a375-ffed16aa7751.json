@@ -5854,5 +5854,17 @@
     },
     "done": true
   },
+  "furnish:a_fine_gourmet": {
+    "criteria": {
+      "chinese_plate": "2025-04-08 00:52:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-08 01:01:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
