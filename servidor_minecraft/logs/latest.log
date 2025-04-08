@@ -387,3 +387,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 12:48:13.236] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2565, y=11, z=1443}
 [08Apr2025 12:48:48.609] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@462f9b2[id=<null>,name=CryzerDS,properties={},legacy=false] (/127.93.55.24:48081) lost connection: Disconnected
 [08Apr2025 12:49:18.583] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2604, y=16, z=1414}
+[08Apr2025 12:59:37.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxyfolli[/127.148.36.196:41629] logged in with entity id 18802 at (1592.309163272072, 72.0, 635.4370385622913)
+[08Apr2025 12:59:37.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxyfolli joined the game
+[08Apr2025 12:59:37.865] [Server thread/INFO] [Jade/]: Syncing config to Foxyfolli (8aea0169-3bb8-300f-b384-c7c5d6a4df96)
