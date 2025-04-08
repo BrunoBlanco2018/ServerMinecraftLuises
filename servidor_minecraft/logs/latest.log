@@ -7,3 +7,11 @@
 [08Apr2025 00:25:33.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 has made the advancement [Local Brewery]
 [08Apr2025 00:37:56.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicasexy_22 lost connection: Timed out
 [08Apr2025 00:37:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 left the game
+[08Apr2025 00:41:50.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bb18_ lost connection: Disconnected
+[08Apr2025 00:41:50.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bb18_ left the game
+[08Apr2025 00:44:16.860] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60605807[id=<null>,name=nicasexy_22,properties={},legacy=false] (/127.129.85.76:36431) lost connection: Disconnected
+[08Apr2025 00:44:45.006] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4dd438e2[id=<null>,name=nicasexy_22,properties={},legacy=false] (/127.129.85.76:45803) lost connection: Disconnected
+[08Apr2025 00:45:24.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicasexy_22[/127.129.85.76:50845] logged in with entity id 53964 at (-144.80901836981192, 69.0, -1138.534326874275)
+[08Apr2025 00:45:24.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicasexy_22 joined the game
+[08Apr2025 00:45:24.219] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 256.0
+[08Apr2025 00:45:24.219] [Server thread/INFO] [Jade/]: Syncing config to nicasexy_22 (6d76ebd9-f160-33eb-a375-ffed16aa7751)
